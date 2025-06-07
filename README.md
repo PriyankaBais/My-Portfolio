@@ -1,4 +1,5 @@
 Personal Portfolio Website – Priyanka Bais
+
 Welcome to my personal portfolio website! This project showcases my skills, educational background, and professional achievements in a visually appealing and responsive manner using HTML5 and CSS3.
 
 🌟 Project Highlights
@@ -11,18 +12,18 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 7. Contact Info: Includes direct links to my email, LinkedIn, and GitHub for collaboration or hiring inquiries.
 
 🔧 Technologies Used
-HTML5
-CSS3
+1.HTML5
+2.CSS3
 
 Basic use of:
-<audio> for media embedding
-Responsive and structured layout design
-Marquee and image styling for visual enhancement
+1.<audio> for media embedding
+2.Responsive and structured layout design
+3.Marquee and image styling for visual enhancement
 
 🎯 Purpose
-This website serves as an online resume and professional portfolio to showcase:
-My academic journey
-Skills in front-end development
-Career achievements and certifications
+1.This website serves as an online resume and professional portfolio to showcase:
+2.My academic journey
+3.Skills in front-end development
+4.Career achievements and certifications
 
 ✨ This project reflects my commitment to continuous learning and growth in the field of software development and UI design.
