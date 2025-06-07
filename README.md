@@ -11,16 +11,16 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 6. Certificates & Achievements: Lists major academic and professional accomplishments.
 7. Contact Info: Includes direct links to my email, LinkedIn, and GitHub for collaboration or hiring inquiries.
 
-🔧 Technologies Used<br>
+🔧 <b>Technologies Used</b><br>
 1.HTML5<br>
 2.CSS3<br>
 
-Basic use of:
+<b>Basic use of:</b><br>
 1.<audio> for media embedding<br>
 2.Responsive and structured layout design<br>
 3.Marquee and image styling for visual enhancement<br>
 
-🎯 Purpose<br>
+🎯 <b>Purpose</b><br>
 1.This website serves as an online resume and professional portfolio to showcase:<br>
 2.My academic journey<br>
 3.Skills in front-end development<br>
